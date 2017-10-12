@@ -5,10 +5,11 @@ The propose is getting information of pages and write it into files.  Page, post
 This code is Python Programming language.
 
 get_facebook_data.ipynb (Jupyter Notebook). There are 4 functions.
-  1. Getting Reaction Information's Function.
-  2. Getting Comment Information's Function.
-  3. Getting Post Information's Function.
-  4. Getting Page Information's Function.
+  1. Getting Reaction's Information Function.
+  2. Getting Tag's Information of Comment Function.
+  3. Getting Comment's Information Function.
+  4. Getting Post's Information Function.
+  5. Getting Page's Information Function.
 
 convert_To_Pandas.ipnb (Jupyter Notebook). There are 5 functions.
   1. JSON's file Reader.
